@@ -8,7 +8,8 @@
 def main():
 
     # Taking mark inputs
-    pass_marks = int(input("Please enter your credits at pass: "))
+    pass_marks = int(input("hopethisworks enter your credits at pass: "))
+    pass_marks = "test"
     deff_marks = int(input("Please enter your credits at defer: "))
     fail_marks = int(input("Please enter your credits at fail: "))
 
